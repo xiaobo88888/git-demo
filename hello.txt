@@ -13,4 +13,4 @@ hello Liubo! hello Git!
 hello Liubo! hello Git!
 hello Liubo! hello Git!
 hello Liubo! hello Git!
-hello Liubo! hello Git!
+hello Liubo! hello Git! hot-fix test
