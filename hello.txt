@@ -12,5 +12,8 @@ hello Liubo! hello Git!
 hello Liubo! hello Git!
 hello Liubo! hello Git!
 hello Liubo! hello Git!
+<<<<<<< HEAD
 hello Liubo! hello Git! master test
-hello Liubo! hello Git!
+=======
+hello Liubo! hello Git! hot-fix test
+>>>>>>> hot-fix
